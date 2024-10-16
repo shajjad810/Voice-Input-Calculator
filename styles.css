@@ -57,7 +57,7 @@ h1 {
     
 }
 
-button:active {
+.button:focus {
     background-color: red;
 }
 
